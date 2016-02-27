@@ -1,0 +1,15 @@
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\bin\Release\PoolsForAndroid.dll
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\bin\Release\PoolsForAndroid.pdb
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\bin\Release\PoolsForAndroid.PoolsForAndroid.apk
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\bin\Release\PoolsForAndroid.PoolsForAndroid-Signed.apk
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\bin\Release\Newtonsoft.Json.dll
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\bin\Release\Newtonsoft.Json.xml
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\obj\Release\PoolsForAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\obj\Release\PoolsForAndroid.dll
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\obj\Release\PoolsForAndroid.pdb
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\obj\Release\android\bin\PoolsForAndroid.PoolsForAndroid.apk
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\obj\Release\res\layout\main.xml
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\obj\Release\res\values\strings.xml
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\obj\Release\res\drawable\icon.png
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\obj\Release\R.cs.flag
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForMobile\PoolsForAndroid\obj\Release\uploadflags.txt
