@@ -44,7 +44,10 @@ namespace PoolsForAndroid
 
             var json = System.Json.JsonValue.Parse(responseString);
 
-
+            foreach (var Item in json)
+            {
+                Item.ToString();
+            }
 
 
         }
