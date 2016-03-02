@@ -24,7 +24,7 @@ namespace PoolsForAndroid
             // and attach an event to it
             var button = FindViewById<Button>(Resource.Id.MyButton);
 
-            button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
+            button.Click += delegate { button.Text = $"{count++} clicks!"; };
 
 
             Test();
@@ -32,11 +32,8 @@ namespace PoolsForAndroid
 
         private static void Test()
         {
-            var URL = "http://poolhalls.azurewebsites.net/Api/UserAPI";
-
-
-            Uri uri = new Uri(URL);
-            var request = new System.Net.HttpWebRequest(uri) { Method = "GET" };
+            const string URL = "http://poolhalls.azurewebsites.net/Api/UserAPI";
+            var request = new System.Net.HttpWebRequest(new Uri(URL)) { Method = "GET" };
 
             var responseString = string.Empty;
             var response = request.GetResponse() as System.Net.HttpWebResponse;
@@ -45,7 +42,11 @@ namespace PoolsForAndroid
                 responseString = sr.ReadToEnd();
             }
 
-            System.Json.JsonValue json = System.Json.JsonValue.Parse(responseString);
+            var json = System.Json.JsonValue.Parse(responseString);
+
+
+
+
         }
     }
 }

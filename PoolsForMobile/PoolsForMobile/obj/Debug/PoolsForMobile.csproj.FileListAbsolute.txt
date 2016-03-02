@@ -1,0 +1,15 @@
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\bin\Debug\PoolsForAndroid.dll
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\bin\Debug\PoolsForAndroid.pdb
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\bin\Debug\PoolsForAndroid.PoolsForAndroid.apk
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\bin\Debug\PoolsForAndroid.PoolsForAndroid-Signed.apk
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\PoolsForMobile.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\PoolsForAndroid.dll
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\PoolsForAndroid.pdb
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\android\bin\PoolsForAndroid.PoolsForAndroid.apk
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\res\layout\main.xml
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\res\values\strings.xml
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\res\drawable\icon.png
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\R.cs.flag
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\uploadflags.txt
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\PoolsForAndroid.dll.mdb
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\bin\Debug\PoolsForAndroid.dll.mdb
