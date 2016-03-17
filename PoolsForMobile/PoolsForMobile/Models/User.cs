@@ -11,6 +11,28 @@ namespace PoolsForAndroid.Models
             Visits = new HashSet<Visit>();
         }
 
+
+        public User(System.Json.JsonObject Json)
+        {
+            Comments = new HashSet<Comment>();
+            Reviews = new HashSet<Review>();
+            Badges = new HashSet<Badge>();
+            Visits = new HashSet<Visit>();
+
+
+            name = Json["name"];
+            email = Json["email"];
+            password = Json["password"];
+            Avatar = Json["Avatar"];
+
+            foreach (System.Json.JsonObject Comment in Json["Comments"])
+            {
+                Comments.Add(new Comment(Comment));
+            }
+
+        }
+
+
         public int Id { get; set; }
 
         public string name { get; set; }

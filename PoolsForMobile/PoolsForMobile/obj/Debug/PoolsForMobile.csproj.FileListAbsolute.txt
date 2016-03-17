@@ -11,5 +11,7 @@ C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMo
 C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\res\drawable\icon.png
 C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\R.cs.flag
 C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\uploadflags.txt
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\res\layout\tab.xml
+C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\res\drawable\ic_tab_white.png
 C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\obj\Debug\PoolsForAndroid.dll.mdb
 C:\Users\Aaron Campf\Documents\GitHub\PoolsForAndroid\PoolsForAndroid\PoolsForMobile\PoolsForMobile\bin\Debug\PoolsForAndroid.dll.mdb

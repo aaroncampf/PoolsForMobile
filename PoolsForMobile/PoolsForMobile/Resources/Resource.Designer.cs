@@ -45,7 +45,10 @@ namespace PoolsForAndroid
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int ic_tab_white = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int Icon = 2130837505;
 			
 			static Drawable()
 			{
@@ -60,8 +63,14 @@ namespace PoolsForAndroid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int MyButton = 2131034113;
+			
 			// aapt resource value: 0x7f050000
-			public const int MyButton = 2131034112;
+			public const int fragmentContainer = 2131034112;
+			
+			// aapt resource value: 0x7f050002
+			public const int sampleTextView = 2131034114;
 			
 			static Id()
 			{
@@ -78,6 +87,9 @@ namespace PoolsForAndroid
 			
 			// aapt resource value: 0x7f030000
 			public const int Main = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Tab = 2130903041;
 			
 			static Layout()
 			{

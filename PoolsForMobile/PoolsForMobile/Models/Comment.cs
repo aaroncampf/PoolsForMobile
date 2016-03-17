@@ -15,5 +15,18 @@ namespace PoolsForAndroid.Models
         public virtual Place Place { get; set; }
 
         public virtual User User { get; set; }
+
+        public Comment(System.Json.JsonObject Json)
+        {
+            this.Id = int.Parse(Json["Id"]);
+            this.text = Json["text"];
+            this.Date = System.DateTime.Parse(Json["Date"]);
+
+
+
+
+
+            Json["Date"].ToString().Split(new char[] { 'T' },);
+        }
     }
 }
